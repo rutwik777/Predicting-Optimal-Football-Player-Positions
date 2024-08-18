@@ -8,6 +8,10 @@ Explored relationships between wages, overall ratings, player position, and nati
 Identified top 50 players and their clubs, and visualized the fastest players.
 
 
-### Data Handling: Managed missing values, encoded categorical data, performed feature scaling, and applied RandomOverSampling for dataset balance.
+### Data Handling: 
 
-### Modeling: Trained models using Decision Tree, Logistic Regression, and various AdaBoost techniques, achieving 98% accuracy.
+Managed missing values, encoded categorical data, performed feature scaling, and applied RandomOverSampling for dataset balance.
+
+### Modeling: 
+
+Trained models using Decision Tree, Logistic Regression, and various AdaBoost techniques, achieving 98% accuracy.
